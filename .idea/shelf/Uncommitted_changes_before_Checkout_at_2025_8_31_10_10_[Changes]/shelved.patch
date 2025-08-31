@@ -1,0 +1,36 @@
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Default ignored files\r\n/shelf/\r\n/workspace.xml\r\n# Editor-based HTTP Client requests\r\n/httpRequests/\r\n# Datasource local storage ignored files\r\n/dataSources/\r\n/dataSources.local.xml\r\n
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+--- a/.idea/.gitignore	
++++ b/.idea/.gitignore	
+@@ -1,8 +1,8 @@
+ # Default ignored files
+ /shelf/
+ /workspace.xml
+-# Editor-based HTTP Client requests
+-/httpRequests/
+ # Datasource local storage ignored files
+ /dataSources/
+ /dataSources.local.xml
++# Editor-based HTTP Client requests
++/httpRequests/
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"CodeInsightWorkspaceSettings\">\r\n    <option name=\"optimizeImportsOnTheFly\" value=\"true\" />\r\n  </component>\r\n  <component name=\"ProjectRootManager\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	
++++ b/.idea/misc.xml	
+@@ -3,7 +3,4 @@
+   <component name="CodeInsightWorkspaceSettings">
+     <option name="optimizeImportsOnTheFly" value="true" />
+   </component>
+-  <component name="ProjectRootManager">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+ </project>
+\ No newline at end of file
